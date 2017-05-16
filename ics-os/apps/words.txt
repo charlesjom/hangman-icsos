@@ -1,0 +1,315 @@
+Afghanistan-Country
+Albania-Country
+Algeria-Country
+Andorra-Country
+Angola-Country
+Argentina-Country
+Armenia-Country
+Australia-Country
+Austria-Country
+Azerbaijan-Country
+Bahamas-Country
+Bahrain-Country
+Bangladesh-Country
+Barbados-Country
+Belarus-Country
+Belgium-Country
+Belize-Country
+Benin-Country
+Bhutan-Country
+Bolivia-Country
+Berlin-Country
+Botswana-Country
+Brazil-Country
+Brunei-Country
+Bulgaria-Country
+Cambodia-Country
+Cameroon-Country
+Canada-Country
+Cape Verde-Country
+Chile-Country
+China-Country
+Colombia-Country
+Congo-Country
+Costa Rica-Country
+Croatia-Country
+Cuba-Country
+Cyprus-Country
+Czech Republic-Country
+Denmark-Country
+Dominica-Country
+Dominican Republic-Country
+Ecuador-Country
+Egypt-Country
+Estonia-Country
+Ethiopia-Country
+Finland-Country
+France-Country
+Georgia-Country
+Germany-Country
+Ghana-Country
+Greece-Country
+Guatemala-Country
+Haiti-Country
+Hungary-Country
+Iceland-Country
+India-Country
+Indonesia-Country
+Iran-Country
+Iraq-Country
+Ireland-Country
+Israel-Country
+Italy-Country
+Jamaica-Country
+Japan-Country
+Jordan-Country
+Kazakhstan-Country
+Kenya-Country
+North Korea-Country
+South Korea-Country
+Kuwait-Country
+Kyrgyzstan-Country
+Laos-Country
+Latvia-Country
+Lebanon-Country
+Liberia-Country
+Libya-Country
+Lithuania-Country
+Luxembourg-Country
+Macedonia-Country
+Madagascar-Country
+Malaysia-Country
+Maldives-Country
+Malta-Country
+Mexico-Country
+Monaco-Country
+Mongolia-Country
+Morocco-Country
+Mozambique-Country
+Myanmar-Country
+Nepal-Country
+Netherlands-Country
+New Zealand-Country
+Nicaragua-Country
+Nigeria-Country
+Norway-Country
+Oman-Country
+Pakistan-Country
+Panama-Country
+Papua New Guinea-Country
+Paraguay-Country
+Peru-Country
+Philippines-Country
+Poland-Country
+Portugal-Country
+Qatar-Country
+Romania-Country
+Saudi Arabia-Country
+Senegal-Country
+Serbia-Country
+Singapore-Country
+Slovenia-Country
+Somalia-Country
+South Africa-Country
+Spain-Country
+Sri Lanka-Country
+Sudan-Country
+Sweden-Country
+Switzerland-Country
+Syria-Country
+Taiwan-Country
+Tanzania-Country
+Thailand-Country
+Turkey-Country
+Turkmenistan-Country
+Uganda-Country
+Ukraine-Country
+United Arab Emirates-Country
+United Kingdom-Country
+United States-Country
+Uruguay-Country
+Uzbekistan-Country
+Vatican City-Country
+Venezuela-Country
+Vietnam-Country
+Yemen-Country
+Zambia-Country
+Zimbabwe-Country
+Manila-City
+Amsterdam-City
+Cleveland-City
+San Francisco-City
+Paris-City
+Rome-City
+London-City
+The Flash-Movie or TV Show
+Riverdale-Movie or TV Show
+How I met your mother-Movie or TV Show
+Friends-Movie or TV Show
+The Big Bang Theory-Movie or TV Show
+How to get away with murder-Movie or TV Show
+Orange is the new black-Movie or TV Show
+Mr Robot-Movie or TV Show
+Game of Thrones-Movie or TV Show
+Spongebob-Movie or TV Show
+Fairly odd parents-Movie or TV Show
+Jimmy Neutron-Movie or TV Show
+Courage the cowardly dog-Movie or TV Show
+Chalkzone-Movie or TV Show
+Rugrats-Movie or TV Show
+The Walking dead-Movie or TV Show
+Modern Family-Movie or TV Show
+South Park-Movie or TV Show
+The Suite life of Zack and Cody-Movie or TV Show
+Wizards of Waverly Place-Movie or TV Show
+Thats so Raven-Movie or TV Show
+Kids next door-Movie or TV Show
+Powerpuff girls-Movie or TV Show
+Recess-Movie or TV Show
+Drake and Josh-Movie or TV Show
+iCarly-Movie or TV Show
+Danny Phantom-Movie or TV Show
+Chowder-Movie or TV Show
+Adventure Time-Movie or TV Show
+Futurama-Movie or TV Show
+The Simpsons-Movie or TV Show
+Predestination-Movie or TV Show
+Family Guy-Movie or TV Show
+Ted-Movie or TV Show
+American dad-Movie or TV Show
+The Notebook-Movie or TV Show
+Twilight-Movie or TV Show
+Avatar The Last airbender-Movie or TV Show
+Breaking Bad-Movie or TV Show
+Rick and Morty-Movie or TV Show
+Dragon Ball Z-Movie or TV Show
+Dexter-Movie or TV Show
+Daredevil-Movie or TV Show
+Doctor Who-Movie or TV Show
+Parks and Recreation-Movie or TV Show
+Justice League-Movie or TV Show
+Mr Bean-Movie or TV Show
+X Men-Movie or TV Show
+Avatar-Movie or TV Show
+Sherlock-Movie or TV Show
+Seinfeld-Movie or TV Show
+Gravity Falls-Movie or TV Show
+The Office-Movie or TV Show
+Titanic-Movie or TV Show
+Star Wars-Movie or TV Show
+Jurassic Park-Movie or TV Show
+The Avengers-Movie or TV Show
+Harry Potter-Movie or TV Show
+Frozen-Movie or TV Show
+Iron Man-Movie or TV Show
+Cinderella-Movie or TV Show
+Sleeping Beauty-Movie or TV Show
+Minions-Movie or TV Show
+Captain America-Movie or TV Show
+Transformers-Movie or TV Show
+The Lord of the Rings-Movie or TV Show
+Skyfall-Movie or TV Show
+The Dark Knight Rises-Movie or TV Show
+Toy Story-Movie or TV Show
+Pirates of the Caribbean-Movie or TV Show
+Alice in Wonderland-Movie or TV Show
+Zootopia-Movie or TV Show
+The Hobbit-Movie or TV Show
+Beauty and the Beast-Movie or TV Show
+Despicable Me-Movie or TV Show
+The Lion King-Movie or TV Show
+The Jungle Book-Movie or TV Show
+Finding Nemo-Movie or TV Show
+Spectre-Movie or TV Show
+Ice Age-Movie or TV Show
+Hunger Games-Movie or TV Show
+Independence Day-Movie or TV Show
+Spider Man-Movie or TV Show
+Shrek-Movie or TV Show
+Fast and Furious-Movie or TV Show
+Indiana Jones-Movie or TV Show
+Deadpool-Movie or TV Show
+Maleficent-Movie or TV Show
+Guardians of the Galaxy-Movie or TV Show
+Madagascar-Movie or TV Show
+Narnia-Movie or TV Show
+Monsters Inc-Movie or TV Show
+The Matrix-Movie or TV Show
+Up-Movie or TV Show
+Memento-Movie or TV Show
+The Prestige-Movie or TV Show
+Inception-Movie or TV Show
+Arrival-Movie or TV Show
+Insidious-Movie or TV Show
+Forrest Gump-Movie or TV Show
+Interstellar-Movie or TV Show
+Kung Fu Panda-Movie or TV Show
+Jaws-Movie or TV Show
+The Exorcist-Movie or TV Show
+The Godfather-Movie or TV Show
+Grease-Movie or TV Show
+Mary Poppins-Movie or TV Show
+Ghostbusters-Movie or TV Show
+Home Alone-Movie or TV Show
+Pinocchio-Movie or TV Show
+Bambi-Movie or TV Show
+Man of Steel-Movie or TV Show
+Back to the Future-Movie or TV Show
+Men in Black-Movie or TV Show
+Aladdin-Movie or TV Show
+Enter the Dragon-Movie or TV Show
+The Shining-Movie or TV Show
+Manila Bulletin-Companies and Brands
+Jollibee-Companies and Brands
+Nintendo-Companies and Brands
+Ubisoft-Companies and Brands
+Square Enix-Companies and Brands
+Microsoft-Companies and Brands
+Sony-Companies and Brands
+Bandai-Companies and Brands
+Activision-Companies and Brands
+Valve-Companies and Brands
+Rockstar-Companies and Brands
+Electronic Arts-Companies and Brands
+Sega-Companies and Brands
+BioWare-Companies and Brands
+Naughty Dog-Companies and Brands
+Blizzard-Companies and Brands
+Papa Johns-Companies and Brands
+Dairy Queen-Companies and Brands
+Coldstone-Companies and Brands
+Dominos-Companies and Brands
+Sbarro-Companies and Brands
+KFC-Companies and Brands
+Pizza Hut-Companies and Brands
+Shakeys-Companies and Brands
+Taco Bell-Companies and Brands
+Krispy Kreme-Companies and Brands
+Wendys-Companies and Brands
+Burger King-Companies and Brands
+Subway-Companies and Brands
+Starbucks-Companies and Brands
+McDonalds-Companies and Brands
+Volvo-Companies and Brands
+Ferrari-Companies and Brands
+Toyota-Companies and Brands
+Nissan-Companies and Brands
+Lexus-Companies and Brands
+Hyundai-Companies and Brands
+Maserati-Companies and Brands
+Mitsubishi-Companies and Brands
+Ford-Companies and Brands
+Chevrolet-Companies and Brands
+Volkswagen-Companies and Brands
+Suzuki-Companies and Brands
+Isuzu-Companies and Brands
+Kia-Companies and Brands
+Audi-Companies and Brands
+Bentley-Companies and Brands
+Lamborghini-Companies and Brands
+Porsche-Companies and Brands
+Bugatti-Companies and Brands
+Cadillac-Companies and Brands
+Buick-Companies and Brands
+Coke-Companies and Brands
+Pepsi-Companies and Brands
