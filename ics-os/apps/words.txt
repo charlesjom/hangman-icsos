@@ -142,174 +142,174 @@ San Francisco-City
 Paris-City
 Rome-City
 London-City
-The Flash-Movie or TV Show
-Riverdale-Movie or TV Show
-How I met your mother-Movie or TV Show
-Friends-Movie or TV Show
-The Big Bang Theory-Movie or TV Show
-How to get away with murder-Movie or TV Show
-Orange is the new black-Movie or TV Show
-Mr Robot-Movie or TV Show
-Game of Thrones-Movie or TV Show
-Spongebob-Movie or TV Show
-Fairly odd parents-Movie or TV Show
-Jimmy Neutron-Movie or TV Show
-Courage the cowardly dog-Movie or TV Show
-Chalkzone-Movie or TV Show
-Rugrats-Movie or TV Show
-The Walking dead-Movie or TV Show
-Modern Family-Movie or TV Show
-South Park-Movie or TV Show
-The Suite life of Zack and Cody-Movie or TV Show
-Wizards of Waverly Place-Movie or TV Show
-Thats so Raven-Movie or TV Show
-Kids next door-Movie or TV Show
-Powerpuff girls-Movie or TV Show
-Recess-Movie or TV Show
-Drake and Josh-Movie or TV Show
-iCarly-Movie or TV Show
-Danny Phantom-Movie or TV Show
-Chowder-Movie or TV Show
-Adventure Time-Movie or TV Show
-Futurama-Movie or TV Show
-The Simpsons-Movie or TV Show
-Predestination-Movie or TV Show
-Family Guy-Movie or TV Show
-Ted-Movie or TV Show
-American dad-Movie or TV Show
-The Notebook-Movie or TV Show
-Twilight-Movie or TV Show
-Avatar The Last airbender-Movie or TV Show
-Breaking Bad-Movie or TV Show
-Rick and Morty-Movie or TV Show
-Dragon Ball Z-Movie or TV Show
-Dexter-Movie or TV Show
-Daredevil-Movie or TV Show
-Doctor Who-Movie or TV Show
-Parks and Recreation-Movie or TV Show
-Justice League-Movie or TV Show
-Mr Bean-Movie or TV Show
-X Men-Movie or TV Show
-Avatar-Movie or TV Show
-Sherlock-Movie or TV Show
-Seinfeld-Movie or TV Show
-Gravity Falls-Movie or TV Show
-The Office-Movie or TV Show
-Titanic-Movie or TV Show
-Star Wars-Movie or TV Show
-Jurassic Park-Movie or TV Show
-The Avengers-Movie or TV Show
-Harry Potter-Movie or TV Show
-Frozen-Movie or TV Show
-Iron Man-Movie or TV Show
-Cinderella-Movie or TV Show
-Sleeping Beauty-Movie or TV Show
-Minions-Movie or TV Show
-Captain America-Movie or TV Show
-Transformers-Movie or TV Show
-The Lord of the Rings-Movie or TV Show
-Skyfall-Movie or TV Show
-The Dark Knight Rises-Movie or TV Show
-Toy Story-Movie or TV Show
-Pirates of the Caribbean-Movie or TV Show
-Alice in Wonderland-Movie or TV Show
-Zootopia-Movie or TV Show
-The Hobbit-Movie or TV Show
-Beauty and the Beast-Movie or TV Show
-Despicable Me-Movie or TV Show
-The Lion King-Movie or TV Show
-The Jungle Book-Movie or TV Show
-Finding Nemo-Movie or TV Show
-Spectre-Movie or TV Show
-Ice Age-Movie or TV Show
-Hunger Games-Movie or TV Show
-Independence Day-Movie or TV Show
-Spider Man-Movie or TV Show
-Shrek-Movie or TV Show
-Fast and Furious-Movie or TV Show
-Indiana Jones-Movie or TV Show
-Deadpool-Movie or TV Show
-Maleficent-Movie or TV Show
-Guardians of the Galaxy-Movie or TV Show
-Madagascar-Movie or TV Show
-Narnia-Movie or TV Show
-Monsters Inc-Movie or TV Show
-The Matrix-Movie or TV Show
-Up-Movie or TV Show
-Memento-Movie or TV Show
-The Prestige-Movie or TV Show
-Inception-Movie or TV Show
-Arrival-Movie or TV Show
-Insidious-Movie or TV Show
-Forrest Gump-Movie or TV Show
-Interstellar-Movie or TV Show
-Kung Fu Panda-Movie or TV Show
-Jaws-Movie or TV Show
-The Exorcist-Movie or TV Show
-The Godfather-Movie or TV Show
-Grease-Movie or TV Show
-Mary Poppins-Movie or TV Show
-Ghostbusters-Movie or TV Show
-Home Alone-Movie or TV Show
-Pinocchio-Movie or TV Show
-Bambi-Movie or TV Show
-Man of Steel-Movie or TV Show
-Back to the Future-Movie or TV Show
-Men in Black-Movie or TV Show
-Aladdin-Movie or TV Show
-Enter the Dragon-Movie or TV Show
-The Shining-Movie or TV Show
-Manila Bulletin-Companies and Brands
-Jollibee-Companies and Brands
-Nintendo-Companies and Brands
-Ubisoft-Companies and Brands
-Square Enix-Companies and Brands
-Microsoft-Companies and Brands
-Sony-Companies and Brands
-Bandai-Companies and Brands
-Activision-Companies and Brands
-Valve-Companies and Brands
-Rockstar-Companies and Brands
-Electronic Arts-Companies and Brands
-Sega-Companies and Brands
-BioWare-Companies and Brands
-Naughty Dog-Companies and Brands
-Blizzard-Companies and Brands
-Papa Johns-Companies and Brands
-Dairy Queen-Companies and Brands
-Coldstone-Companies and Brands
-Dominos-Companies and Brands
-Sbarro-Companies and Brands
-KFC-Companies and Brands
-Pizza Hut-Companies and Brands
-Shakeys-Companies and Brands
-Taco Bell-Companies and Brands
-Krispy Kreme-Companies and Brands
-Wendys-Companies and Brands
-Burger King-Companies and Brands
-Subway-Companies and Brands
-Starbucks-Companies and Brands
-McDonalds-Companies and Brands
-Volvo-Companies and Brands
-Ferrari-Companies and Brands
-Toyota-Companies and Brands
-Nissan-Companies and Brands
-Lexus-Companies and Brands
-Hyundai-Companies and Brands
-Maserati-Companies and Brands
-Mitsubishi-Companies and Brands
-Ford-Companies and Brands
-Chevrolet-Companies and Brands
-Volkswagen-Companies and Brands
-Suzuki-Companies and Brands
-Isuzu-Companies and Brands
-Kia-Companies and Brands
-Audi-Companies and Brands
-Bentley-Companies and Brands
-Lamborghini-Companies and Brands
-Porsche-Companies and Brands
-Bugatti-Companies and Brands
-Cadillac-Companies and Brands
-Buick-Companies and Brands
-Coke-Companies and Brands
-Pepsi-Companies and Brands
+The Flash-Movie/TV Show
+Riverdale-Movie/TV Show
+How I met your mother-Movie/TV Show
+Friends-Movie/TV Show
+The Big Bang Theory-Movie/TV Show
+How to get away with murder-Movie/TV Show
+Orange is the new black-Movie/TV Show
+Mr Robot-Movie/TV Show
+Game of Thrones-Movie/TV Show
+Spongebob-Movie/TV Show
+Fairly odd parents-Movie/TV Show
+Jimmy Neutron-Movie/TV Show
+Courage the cowardly dog-Movie/TV Show
+Chalkzone-Movie/TV Show
+Rugrats-Movie/TV Show
+The Walking dead-Movie/TV Show
+Modern Family-Movie/TV Show
+South Park-Movie/TV Show
+The Suite life of Zack and Cody-Movie/TV Show
+Wizards of Waverly Place-Movie/TV Show
+Thats so Raven-Movie/TV Show
+Kids next door-Movie/TV Show
+Powerpuff girls-Movie/TV Show
+Recess-Movie/TV Show
+Drake and Josh-Movie/TV Show
+iCarly-Movie/TV Show
+Danny Phantom-Movie/TV Show
+Chowder-Movie/TV Show
+Adventure Time-Movie/TV Show
+Futurama-Movie/TV Show
+The Simpsons-Movie/TV Show
+Predestination-Movie/TV Show
+Family Guy-Movie/TV Show
+Ted-Movie/TV Show
+American dad-Movie/TV Show
+The Notebook-Movie/TV Show
+Twilight-Movie/TV Show
+Avatar The Last airbender-Movie/TV Show
+Breaking Bad-Movie/TV Show
+Rick and Morty-Movie/TV Show
+Dragon Ball Z-Movie/TV Show
+Dexter-Movie/TV Show
+Daredevil-Movie/TV Show
+Doctor Who-Movie/TV Show
+Parks and Recreation-Movie/TV Show
+Justice League-Movie/TV Show
+Mr Bean-Movie/TV Show
+X Men-Movie/TV Show
+Avatar-Movie/TV Show
+Sherlock-Movie/TV Show
+Seinfeld-Movie/TV Show
+Gravity Falls-Movie/TV Show
+The Office-Movie/TV Show
+Titanic-Movie/TV Show
+Star Wars-Movie/TV Show
+Jurassic Park-Movie/TV Show
+The Avengers-Movie/TV Show
+Harry Potter-Movie/TV Show
+Frozen-Movie/TV Show
+Iron Man-Movie/TV Show
+Cinderella-Movie/TV Show
+Sleeping Beauty-Movie/TV Show
+Minions-Movie/TV Show
+Captain America-Movie/TV Show
+Transformers-Movie/TV Show
+The Lord of the Rings-Movie/TV Show
+Skyfall-Movie/TV Show
+The Dark Knight Rises-Movie/TV Show
+Toy Story-Movie/TV Show
+Pirates of the Caribbean-Movie/TV Show
+Alice in Wonderland-Movie/TV Show
+Zootopia-Movie/TV Show
+The Hobbit-Movie/TV Show
+Beauty and the Beast-Movie/TV Show
+Despicable Me-Movie/TV Show
+The Lion King-Movie/TV Show
+The Jungle Book-Movie/TV Show
+Finding Nemo-Movie/TV Show
+Spectre-Movie/TV Show
+Ice Age-Movie/TV Show
+Hunger Games-Movie/TV Show
+Independence Day-Movie/TV Show
+Spider Man-Movie/TV Show
+Shrek-Movie/TV Show
+Fast and Furious-Movie/TV Show
+Indiana Jones-Movie/TV Show
+Deadpool-Movie/TV Show
+Maleficent-Movie/TV Show
+Guardians of the Galaxy-Movie/TV Show
+Madagascar-Movie/TV Show
+Narnia-Movie/TV Show
+Monsters Inc-Movie/TV Show
+The Matrix-Movie/TV Show
+Up-Movie/TV Show
+Memento-Movie/TV Show
+The Prestige-Movie/TV Show
+Inception-Movie/TV Show
+Arrival-Movie/TV Show
+Insidious-Movie/TV Show
+Forrest Gump-Movie/TV Show
+Interstellar-Movie/TV Show
+Kung Fu Panda-Movie/TV Show
+Jaws-Movie/TV Show
+The Exorcist-Movie/TV Show
+The Godfather-Movie/TV Show
+Grease-Movie/TV Show
+Mary Poppins-Movie/TV Show
+Ghostbusters-Movie/TV Show
+Home Alone-Movie/TV Show
+Pinocchio-Movie/TV Show
+Bambi-Movie/TV Show
+Man of Steel-Movie/TV Show
+Back to the Future-Movie/TV Show
+Men in Black-Movie/TV Show
+Aladdin-Movie/TV Show
+Enter the Dragon-Movie/TV Show
+The Shining-Movie/TV Show
+Manila Bulletin-Companies/Brands
+Jollibee-Companies/Brands
+Nintendo-Companies/Brands
+Ubisoft-Companies/Brands
+Square Enix-Companies/Brands
+Microsoft-Companies/Brands
+Sony-Companies/Brands
+Bandai-Companies/Brands
+Activision-Companies/Brands
+Valve-Companies/Brands
+Rockstar-Companies/Brands
+Electronic Arts-Companies/Brands
+Sega-Companies/Brands
+BioWare-Companies/Brands
+Naughty Dog-Companies/Brands
+Blizzard-Companies/Brands
+Papa Johns-Companies/Brands
+Dairy Queen-Companies/Brands
+Coldstone-Companies/Brands
+Dominos-Companies/Brands
+Sbarro-Companies/Brands
+KFC-Companies/Brands
+Pizza Hut-Companies/Brands
+Shakeys-Companies/Brands
+Taco Bell-Companies/Brands
+Krispy Kreme-Companies/Brands
+Wendys-Companies/Brands
+Burger King-Companies/Brands
+Subway-Companies/Brands
+Starbucks-Companies/Brands
+McDonalds-Companies/Brands
+Volvo-Companies/Brands
+Ferrari-Companies/Brands
+Toyota-Companies/Brands
+Nissan-Companies/Brands
+Lexus-Companies/Brands
+Hyundai-Companies/Brands
+Maserati-Companies/Brands
+Mitsubishi-Companies/Brands
+Ford-Companies/Brands
+Chevrolet-Companies/Brands
+Volkswagen-Companies/Brands
+Suzuki-Companies/Brands
+Isuzu-Companies/Brands
+Kia-Companies/Brands
+Audi-Companies/Brands
+Bentley-Companies/Brands
+Lamborghini-Companies/Brands
+Porsche-Companies/Brands
+Bugatti-Companies/Brands
+Cadillac-Companies/Brands
+Buick-Companies/Brands
+Coke-Companies/Brands
+Pepsi-Companies/Brands

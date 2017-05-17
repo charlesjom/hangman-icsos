@@ -265,6 +265,66 @@ int checkGuess(char c) {
 }
 
 void printHangman(){
+	//print vertical pole
+	if(lives<10) {
+		write_text("||",10,50,WHITE,0);
+		write_text("||",10,60,WHITE,0);
+		write_text("||",10,70,WHITE,0);
+		write_text("||",10,80,WHITE,0);
+		write_text("||",10,90,WHITE,0);
+		write_text("||",10,100,WHITE,0);
+		write_text("||",10,110,WHITE,0);
+		write_text("||",10,120,WHITE,0);
+		write_text("||",10,130,WHITE,0);
+	}
+	//horizontal beam
+	if(lives<9){
+		write_text("===========",10,40,WHITE,0);
+	}
+	//support beam
+	if(lives<8){
+		write_text("/",40,50,WHITE,0);
+		write_text("/",30,60,WHITE,0);
+	}
+	//rope
+	if(lives<1){
+		write_text("|",60,50,WHITE,0);
+		write_text("|",60,60,WHITE,0);
+		write_text("_",70,60,WHITE,0);
+	}
+	//head
+	if(lives<7){
+		write_text("( )",82,60,WHITE,0);
+	}
+	//body
+	if(lives<6){
+		write_text("|",85,70,WHITE,0);
+		write_text("|",85,80,WHITE,0);
+		write_text("|",85,90,WHITE,0);
+		write_text("|",95,70,WHITE,0);
+		write_text("|",95,80,WHITE,0);
+		write_text("|",95,90,WHITE,0);
+	}
+	//left arm
+	if(lives<5){
+		write_text("/",80,70,WHITE,0);
+		write_text("/",70,80,WHITE,0);
+	}
+	//right arm
+	if(lives<4){
+		write_text("\\",100,70,WHITE,0);
+		write_text("\\",110,80,WHITE,0);
+	}
+	//left leg
+	if(lives<3){
+		write_text("/",80,100,WHITE,0);
+		write_text("/",70,110,WHITE,0);
+	}
+	//right leg
+	if(lives<2){
+		write_text("\\",100,100,WHITE,0);
+		write_text("\\",110,110,WHITE,0);
+	}
 }
 
 void printState(){
@@ -275,8 +335,8 @@ void printState(){
 	char str2[128];
 	// menu options
 	write_text("2 - Restart",40,180,WHITE,0);
-	write_text("0 - Quit",200,160,WHITE,0);
-
+	write_text("0 - Quit",200,180,WHITE,0);
+	printHangman();
 	// print word
 	for (i=0; i<strlen(word); i++) {
 		if (guessword[i][1] == 1) str1[i] = word[i];
@@ -288,7 +348,7 @@ void printState(){
 	sprintf(num,  "LIVES: %d", lives);
 
 	write_text(str1, 150, 20, WHITE, 1);
-	write_text("---------HINT---------", 150, 50, WHITE, 0);
+	write_text("-------HINT-------", 150, 50, WHITE, 0);
 	write_text(str2, 150, 70, WHITE, 0);
 	write_text(num, 10, 20, WHITE, 0);
 
@@ -324,7 +384,7 @@ void printState(){
 int header(){
 	write_text("HANGMAN",120,40,WHITE,1); //title
 	//menu options
-	write_text("1 - Start",40,180,WHITE,0); 
-	write_text("2 - About", 100, 180, WHITE, 0);
-	write_text("0 - Exit", 200,180,WHITE,0);
+	write_text("1 - Start",15,180,WHITE,0); 
+	write_text("2 - About", 120, 180, WHITE, 0);
+	write_text("0 - Exit", 225,180,WHITE,0);
 }
