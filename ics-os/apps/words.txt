@@ -147,8 +147,6 @@ Riverdale-Movie/TV Show
 How I met your mother-Movie/TV Show
 Friends-Movie/TV Show
 The Big Bang Theory-Movie/TV Show
-How to get away with murder-Movie/TV Show
-Orange is the new black-Movie/TV Show
 Mr Robot-Movie/TV Show
 Game of Thrones-Movie/TV Show
 Spongebob-Movie/TV Show
@@ -160,7 +158,6 @@ Rugrats-Movie/TV Show
 The Walking dead-Movie/TV Show
 Modern Family-Movie/TV Show
 South Park-Movie/TV Show
-The Suite life of Zack and Cody-Movie/TV Show
 Wizards of Waverly Place-Movie/TV Show
 Thats so Raven-Movie/TV Show
 Kids next door-Movie/TV Show
@@ -179,7 +176,7 @@ Ted-Movie/TV Show
 American dad-Movie/TV Show
 The Notebook-Movie/TV Show
 Twilight-Movie/TV Show
-Avatar The Last airbender-Movie/TV Show
+Avatar The Last Airbender-Movie/TV Show
 Breaking Bad-Movie/TV Show
 Rick and Morty-Movie/TV Show
 Dragon Ball Z-Movie/TV Show
